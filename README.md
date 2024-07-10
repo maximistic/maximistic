@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [AI/ML]()
 
-- 👨‍💻 All of my projects are available at [github.com/maximistic](github.com/maximistic)
+- 👨‍💻 All of my projects are available at [github.com/maximistic](https://github.com/maximistic/)
 
 - 💬 Ask me about **AI/ML**
 
