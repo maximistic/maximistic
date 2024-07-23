@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma&label=Profile%20views&color=0e75b6&style=flat" alt="ma" /> </p>
 
-- 🔭 I’m currently working on [kubernetes](csima)
+- 🔭 I’m currently working on [NMTs](csima)
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Natural Lannguage Processing**
 
 - 👯 I’m looking to collaborate on [AI/ML]()
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **sri@gmail.com**
+- 📫 How to reach me **srikailaash.pr@gmail.com**
 
-- ⚡ Fun fact **I fun**
+- ⚡ Fun fact **My neural networks and I share a common trait: we both learn from our mistakes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
