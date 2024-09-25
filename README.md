@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [NMTs](csima)
 
-- 🌱 I’m currently learning **Natural Lannguage Processing**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on [AI/ML]()
 
