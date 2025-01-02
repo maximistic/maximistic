@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Sri 
   
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">CSE grad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma&label=Profile%20views&color=0e75b6&style=flat" alt="ma" /> </p>
 
@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/maximistic](https://github.com/maximistic/)
 
-- 💬 Ask me about **AI/ML**
-
-- 📫 How to reach me **srikailaash.pr@gmail.com**
+- 📫 Reach me at **srikailaash.pr@gmail.com**
 
 - ⚡ Fun fact **My neural networks and I share a common trait: we both learn from our mistakes!**
 
