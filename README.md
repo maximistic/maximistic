@@ -20,5 +20,5 @@
 <a href="https://leetcode.com/u/maximistic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ma" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximistic&" alt="maximistic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximistic&" alt="streak statistics" /></p>
 
