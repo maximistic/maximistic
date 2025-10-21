@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma&label=Profile%20views&color=0e75b6&style=flat" alt="ma" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
-
 - 👯 I’m looking to collaborate on [AI/ML]()
 
 - 📫 Reach me at **srikailaash.pr@gmail.com**
